@@ -20,5 +20,5 @@ To analyze 12 months of sales data of an Electronic Store using Python in order 
 
 1. Last 12 months sales data in CSV Format of the Electronic store (Raw Data)
 2. The Merged CSV Files containing all the 12 months data.
-3. Python File.(Noptebook ipynb).
+3. Python File.(Notebook ipynb).
 4. The Python File in HTML format.
